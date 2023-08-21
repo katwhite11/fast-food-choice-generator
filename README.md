@@ -2,6 +2,9 @@
 
 The Fast Food Generator is a fun and simple Python program that takes the confusion out of picking something to eat. You and your partner can't agree on a meal? Can't think of what options are around? Look no further! With the Fast Food Generator, you no longer have to decide what to eat.
 
+![image](https://github.com/katwhite11/fast-food-choice-generator/assets/119902118/b0b528f0-c16e-470f-9e4f-8007bc7825f9)
+
+
 ## Features
 
 - __Randomized Choices:__ Let the computer choose for you or pick your own type of food. 
